@@ -1,7 +1,0 @@
-.nova/
-.pytest_cache/
-.vscode/
-__pycache__/
-venv/
-.editorconfig
-.idea/
